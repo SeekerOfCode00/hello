@@ -13,7 +13,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("Fisher Cyza!\n");
+    printf("Fisher!\n");
 
     return(0);
 
